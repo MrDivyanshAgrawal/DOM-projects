@@ -52,13 +52,13 @@ button{
     color:#fff;
 }
 .guesses{
-    background-color: #7a7a7a;
+    background-color: #838583;
 }
 #wrapper{
     box-sizing: border-box;
     text-align:center;
-    width:450px;
-    height:550px;
+    width:470px;
+    height:750px;
     background-color: #474747;
     color:#fff;
     font-size:25px;
